@@ -5,7 +5,15 @@ Control a light controlled by HomeAssistant directly from your polybar
 > 
 > Future improvements may follow though 
 
-![](https://i.imgur.com/C7AMIX6.mp4)
+## Usage
+![](https://imgur.com/Dsmi31g.gif)
+
+**Left-Click**        to toggle the lamp **on/off**  
+**Right-Click**       to switch between controlling **brightness or color-temperature**  
+**Mouse-Wheel-Up**    to **increase** the selected value  
+**Mouse-Wheel-Down**  to **decrease** the selected value
+
+_if you use the default polybar configuration provided below_
 
 ## Setup
 ### Installation
